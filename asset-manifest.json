@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/budgeting-app/static/css/main.ad4bbdcc.css",
-    "main.js": "/budgeting-app/static/js/main.6300dd53.js",
-    "static/js/453.0c3bb33f.chunk.js": "/budgeting-app/static/js/453.0c3bb33f.chunk.js",
-    "index.html": "/budgeting-app/index.html",
-    "main.ad4bbdcc.css.map": "/budgeting-app/static/css/main.ad4bbdcc.css.map",
-    "main.6300dd53.js.map": "/budgeting-app/static/js/main.6300dd53.js.map",
-    "453.0c3bb33f.chunk.js.map": "/budgeting-app/static/js/453.0c3bb33f.chunk.js.map"
+    "main.css": "/Budgeting-System/static/css/main.ad4bbdcc.css",
+    "main.js": "/Budgeting-System/static/js/main.cf8e9977.js",
+    "static/js/453.0c3bb33f.chunk.js": "/Budgeting-System/static/js/453.0c3bb33f.chunk.js",
+    "index.html": "/Budgeting-System/index.html",
+    "main.ad4bbdcc.css.map": "/Budgeting-System/static/css/main.ad4bbdcc.css.map",
+    "main.cf8e9977.js.map": "/Budgeting-System/static/js/main.cf8e9977.js.map",
+    "453.0c3bb33f.chunk.js.map": "/Budgeting-System/static/js/453.0c3bb33f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad4bbdcc.css",
-    "static/js/main.6300dd53.js"
+    "static/js/main.cf8e9977.js"
   ]
 }
